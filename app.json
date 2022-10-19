@@ -28,9 +28,9 @@
         "value": "True",
         "required": false
       },
-      "BOT_TOKEN": {
+      "BOT_TOKEN": {5651726323:AAG90UPeCWai--V-E77vArgaVjnYOT0xUow
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": ""5651726323:AAG90UPeCWai--V-E77vArgaVjnYOT0xUow,
         "required": true
       },
       "MONGO_DB_URI": {
