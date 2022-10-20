@@ -43,7 +43,7 @@
         "value": "",
         "required": true
       },
-      "OWNER_ID": {
+      "SAHİB_KİMLİĞİ" : {-1001420274537
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
         "value": "",
         "required": true
@@ -63,7 +63,7 @@
         "value": "",
         "required": false
       },
-      "LOG_GROUP_ID": {
+      "LOG_GROUP_ID": {-1001899974167
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
         "value": "",
         "required": true
