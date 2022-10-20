@@ -13,12 +13,12 @@
     ],
     "stack": "container",
     "env": {
-      "API_ID": {
+      "API_ID": {22087543
         "description": "Get this value from https://my.telegram.org",
         "value": "",
         "required": true
       },
-      "API_HASH": {
+      "API_HASH": {f8b1f71ef6446f12c57279b35b278dff
         "description": "Get this value from https://my.telegram.org",
         "value": "",
         "required": true
